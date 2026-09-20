@@ -22,4 +22,4 @@ Analysis of retail sales data (2015–2018) to identify sales trends, top-perfor
 Python, Pandas, Matplotlib, Streamlit
 
 ## Live Dashboard
-[View the interactive dashboard]([https://yourname-superstore.streamlit.app](https://super-store-sales-analysis-jarzdzk9kq59583a5c2n8r.streamlit.app/))
+[View the interactive dashboard](https://super-store-sales-analysis-jarzdzk9kq59583a5c2n8r.streamlit.app/)
